@@ -1,0 +1,65 @@
+{
+  "name": "English",
+  "sidebar": {
+    "delete":{
+      "name": "Are you sure you want to delete"
+      },
+    "actions": {
+      "title": "MENUS",
+      "dashboard": "Welcome",
+      "start": "Create new notes",
+      "update": "Update",
+      "vuex": "VUEX"
+    },
+    "records": {
+      "title": "NOTES",
+      "revealinfinder": "Reveal {name} in the Finder",
+      "movetotrash": "Move {name} to Trash"
+    },
+    "settings": {
+      "title": "Settings"
+    },
+    "options": {
+      "title": "OPTIONS",
+      "theme": {
+        "title": "Theme",
+        "default": "Default",
+        "dark": "Dark",
+        "light": "Light"
+      },
+      "address": "IP Address",
+      "port": "Port",
+      "locales": "Language"
+    },
+    "help": {
+      "title": "HELPS",
+      "options": "Options",
+      "about": "About",
+      "back": "Back"
+    }
+  },
+  "about": {
+    "appname": "ZL Note",
+    "appdescription": "ZL Note is a simple notebook.It can note everything in your life!",
+    "v8": "V8",
+    "env": "Env",
+    "core": "Core",
+    "data": "Data",
+    "node": "Node",
+    "chromium": "Chromium",
+    "electron": "Electron",
+    "datetime": "Updated Time",
+    "btn_reveal": "Reveal Log File",
+    "btn_ok": "OK"
+  },
+  "dashboard": {
+    "productername": "Zlsoft",
+    "producterurl": "http://www.zlsoftdq.cn/en/index.html",
+    "introduction": "You are using electron v{electron} with node v{node} on the {platform} platform.",
+    "copyright": "Copyright (c) 2017 Zlsoftdq, Inc. All Rights Reserved."
+  },
+  "watch": {
+    "title": "View your note",
+    "save": "Save your modified note"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "简体中文",
+  "sidebar": {
+    "delete":{
+      "name": "确认删除"
+      },
+    "actions": {
+      "title": "导航",
+      "dashboard": "欢迎页",
+      "start": "创建新笔记",
+      "update": "自动更新",
+      "vuex": "VUEX"
+    },
+    "records": {
+      "title": "笔记",
+      "revealinfinder": "在文件夹中找到{name}文件",
+      "movetotrash": "将{name}文件移至回收站"
+    },
+    "settings": {
+      "title": "设置"
+    },
+    "options": {
+      "title": "选项",
+      "theme": {
+        "title": "皮肤主题",
+        "default": "默认",
+        "dark": "暗色",
+        "light": "亮色"
+      },
+      "address": "IP地址",
+      "port": "端口",
+      "locales": "语言"
+    },
+    "help": {
+      "title": "帮助",
+      "options": "选项",
+      "about": "关于",
+      "back": "返回"
+    }
+  },
+  "about": {
+    "appname": "知了笔记",
+    "appdescription": "知了笔记，打造最简单的笔记软件，为你记录生活中的点点滴滴!",
+    "v8": "V8",
+    "env": "环境",
+    "core": "内核",
+    "data": "数据",
+    "node": "Node版本",
+    "chromium": "Chromium版本",
+    "electron": "Electron版本",
+    "datetime": "更新时间",
+    "btn_reveal": "找到日志文件",
+    "btn_ok": "好的"
+  },
+  "dashboard": {
+    "productername": "知了软件",
+    "producterurl": "http://www.zlsoftdq.cn/",
+    "introduction": "知了笔记，打造最简单的笔记软件，为你记录生活中的点点滴滴!",
+    "copyright": "版权所有 (c) 2017 知了软件，保留一切权利"
+  },
+  "watch": {
+    "title": "浏览笔记",
+    "save": "保存修改"
+  }
+}

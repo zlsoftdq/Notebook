@@ -1,0 +1,18 @@
+{
+  "name": "ZL-Note",
+  "productName": "ZL Note",
+  "description": "ZL Note is a simple notebook.It can note everything in your life!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [
+    "zlsoftdq",
+    "zlsoftdq.cn",
+    "zlnote.zlsoftdq.cn",
+    "electron",
+    "vue",
+    "webpack"
+  ],
+  "author": "zlsoftdq <developer@zlsoftdq.cn> (http://zlsoftdq.cn/)",
+  "license": "MIT",
+  "homepage": "http://zlnote.zlsoftdq.cn"
+}
