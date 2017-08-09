@@ -1,24 +1,22 @@
 /*!
- * Electron Bolierplate
- *   https://github.com/zce/electron-boilerplate
+ * Notebook
+ *   https://github.com/zlsoftdq/Notebook
  *
  * Date:
- *   2016-09-14T04:08:18.325Z
+ *   2017-08-08T00:00:00.325Z
  *
- * Maintainers:
- *   汪磊 <ice@wedn.net> (http://github.com/zce)
+ * Developer:
+ *   Zlsoftdq <developer@zlsoftdq.cn> (http://github.com/zlsoftdq)
  *
  * License:
- *   https://github.com/zce/itcast-tms/tree/master/LICENSE
  *   Released under the MIT license
  *
  * Thanks:
  *   [Vue](https://vuejs.org)
  *   [Electron](https://electron.atom.io)
- *   [Desktop UI](https://github.com/zce/desktop-ui)
  *   etc.
  *
- * Copyright 2015-2016 WEDN, Inc. and other contributors
+ * Copyright 2015-2016 Zlsoftdq, Inc. and other contributors
  */
 
 process.env.NODE_ENV = process.env.NODE_ENV || 'production'
